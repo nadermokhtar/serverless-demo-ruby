@@ -7,5 +7,6 @@ IF you never worked with AWS you need to do init set up at https://serverless.co
 * Added my credit card
 * Used the serverless CLI to do all the leg work so far
 * Working through the issue  of `ServerlessError: The AWS Access Key Id needs a subscription for the service`
+  * Solution just wait for the email confirming you set up took me about 30mins
 
 
